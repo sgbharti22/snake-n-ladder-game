@@ -423,7 +423,7 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Author
 
-**Sourabh Bharti**
+**Bharthi Sreenivas**
 - GitHub: [@sgbharti22](https://github.com/sgbharti22)
 
 ---
